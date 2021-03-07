@@ -2,6 +2,7 @@
 An API for random powerful quotes
 
 [Random Quote API LINK](https://50wzgh.deta.dev/randomquote)
+
 [All Quotes API LINK](https://50wzgh.deta.dev/quotes)
 
 # Overview
