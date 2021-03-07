@@ -1,6 +1,9 @@
 # powerful-quotes-api
 An API for random powerful quotes
 
+[Random Quote API LINK](https://50wzgh.deta.dev/randomquote)
+[All Quotes API LINK](https://50wzgh.deta.dev/quotes)
+
 # Overview
 As a software engineer, I wanted to learn how to build my own API so I decided to do some reasearch into Fast API (https://fastapi.tiangolo.com/) and build one.
 
